@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "mini cooky",
+        "url_foto": "https://static.fundacion-affinity.org/cdn/farfuture/PVbbIC-0M9y4fPbbCsdvAD8bcjjtbFc0NSP3lRwlWcE/mtime:1643275542/sites/default/files/los-10-sonidos-principales-del-perro.jpg",
+        "descripcion": "Un perro cariñoso y juguetón"
+    },
+    {
+        "id": 2,
+        "nombre": "tepotepo",
+        "url_foto": "https://images.ecestaticos.com/WKVhPFxUEZbyVIPNLfYinJoLCYY=/0x0:1254x836/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fad9%2F5c2%2F36b%2Fad95c236b7d6ce4df06290141f7fa00a.jpg",
+        "descripcion": "Una perrita amigable y activa"
+    },
+    {
+        "id": 3,
+        "nombre": "yonofui",
+        "url_foto": "https://static.fundacion-affinity.org/cdn/farfuture/PVbbIC-0M9y4fPbbCsdvAD8bcjjtbFc0NSP3lRwlWcE/mtime:1643275542/sites/default/files/los-10-sonidos-principales-del-perro.jpg",
+        "descripcion": "Un perro malo"
+    }
+
+	
+]
+

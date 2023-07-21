@@ -1,0 +1,26 @@
+[
+        {
+            "id": 1,
+            "perro_interesado_id": 1,
+            "perro_candidato_id": 4,
+            "preferencia": "aceptado",
+            "created_at": "2023-07-21 12:34:56",
+            "updated_at": "2023-07-21 12:34:56"
+        },
+        {
+            "id": 2,
+            "perro_interesado_id": 1,
+            "perro_candidato_id": 2,
+            "preferencia": "aceptado",
+            "created_at": "2023-07-21 12:35:10",
+            "updated_at": "2023-07-21 12:35:10"
+        },
+	{
+            "id": 3,
+            "perro_interesado_id": 1,
+            "perro_candidato_id": 3,
+            "preferencia": "rechazado",
+            "created_at": "2023-07-21 12:35:10",
+            "updated_at": "2023-07-21 12:35:10"
+        }
+    ]

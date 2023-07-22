@@ -1,5 +1,5 @@
 Felipe Ramirez Diaz - Andres Vargas Ulloa
 
-Ingenieria Civil en Informática
+Ingenieria Civil en Informatica
 
-Utilizamos Node versión 18.17.0, Xampp y Mysql
+Utilizamos Node version 18.17.0, Xampp y Mysql

@@ -1,5 +1,7 @@
 <?php
 
+const express = require('express');
+const router = express.Router();
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PerroController;
@@ -24,7 +26,15 @@ Route::post('/login', function (Request $request) {
     return response()->json(['message' => 'Unauthorized'], 401);
 });
 
+router.get('/registrar-perro', (req, res) => {
+    const { nombre, descripcion, foto, sexo } = req.body;
+    res.status(200).json({ message: 'Perro registrado exitosamente' });
+
+});
+
 Route::post('/logout', function (Request $request) {
     $request->user()->currentAccessToken()->delete();
     return response()->json(['message' => 'Logged out successfully'], 200);
 })->middleware('auth:sanctum');
+
+module.exports = router;
